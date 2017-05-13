@@ -1,0 +1,19 @@
+{
+  "name": "honeyfund-hash",
+  "version": "0.1.0",
+  "description": "Honeyfund string hashing functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drrcknlsn/honeyfund-hash.git"
+  },
+  "author": "Derrick Nelson <drrcknlsn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drrcknlsn/honeyfund-hash/issues"
+  },
+  "homepage": "https://github.com/drrcknlsn/honeyfund-hash#readme"
+}
